@@ -1,0 +1,11 @@
+{
+    "name": "OG GoGo",
+    "description": "The OG Get Offline Go Outside NFT",
+    "image": "https://ipfs.io/ipfs/QmZCucWEsammYjbJjuA26SqgpL7xPf4s7T4MxEQtDyfzgG?filename=The_OG_GoGO.png",
+    "attributes": [
+        {
+            "trait_type": "Rareness",
+            "value": 100
+        }
+    ]
+}
